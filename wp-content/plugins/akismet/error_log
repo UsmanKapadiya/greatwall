@@ -1,0 +1,4 @@
+[29-Oct-2021 04:37:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/intellidt2014/public_html/greatwall/wp-content/plugins/akismet/class.akismet-widget.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/greatwall/wp-content/plugins/akismet/class.akismet-widget.php on line 5

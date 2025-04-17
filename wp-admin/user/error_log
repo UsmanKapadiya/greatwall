@@ -1,0 +1,10 @@
+[25-Nov-2017 07:25:28 UTC] PHP Fatal error:  Call to undefined function __() in /home/intellidt2014/public_html/greatwall/wp-admin/user/menu.php on line 10
+[25-Nov-2017 07:27:38 UTC] PHP Fatal error:  Call to undefined function __() in /home/intellidt2014/public_html/greatwall/wp-admin/user/menu.php on line 10
+[29-Nov-2022 03:09:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/intellidt2014/public_html/greatwall/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/greatwall/wp-admin/user/menu.php on line 10
+[01-Dec-2022 09:22:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/intellidt2014/public_html/greatwall/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/greatwall/wp-admin/user/menu.php on line 10

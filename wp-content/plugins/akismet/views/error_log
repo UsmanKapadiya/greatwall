@@ -1,0 +1,4 @@
+[15-Oct-2021 10:55:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/intellidt2014/public_html/greatwall/wp-content/plugins/akismet/views/config.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/greatwall/wp-content/plugins/akismet/views/config.php on line 5

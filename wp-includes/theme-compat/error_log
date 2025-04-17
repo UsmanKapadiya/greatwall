@@ -1,0 +1,1 @@
+[14-Feb-2018 00:13:40 UTC] PHP Fatal error:  Call to undefined function post_class() in /home/intellidt2014/public_html/greatwall/wp-includes/theme-compat/embed-content.php on line 13

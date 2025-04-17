@@ -1,0 +1,3 @@
+[31-Jul-2020 00:07:56 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/intellidt2014/public_html/greatwall/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 11:25:16 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/intellidt2014/public_html/greatwall/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[01-Aug-2020 13:03:32 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/intellidt2014/public_html/greatwall/wp-includes/customize/class-wp-customize-theme-control.php on line 17

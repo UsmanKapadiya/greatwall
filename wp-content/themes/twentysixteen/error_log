@@ -1,0 +1,86 @@
+[05-Dec-2017 12:55:20 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[03-Jan-2018 00:19:14 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[10-Jan-2018 19:12:20 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[27-Jan-2018 15:59:29 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[06-Feb-2018 04:17:43 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/comments.php on line 18
+[06-Feb-2018 04:17:44 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/comments.php on line 18
+[13-Feb-2018 23:32:58 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/header.php on line 13
+[07-May-2018 03:42:49 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[15-Sep-2018 02:14:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[15-Sep-2018 03:12:38 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[07-Oct-2018 00:31:46 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/search.php on line 10
+[07-Oct-2018 10:57:43 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/comments.php on line 18
+[07-Oct-2018 13:38:02 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/header.php on line 13
+[07-Oct-2018 16:21:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/archive.php on line 19
+[11-Oct-2018 15:41:53 UTC] PHP Notice:  Undefined index: wp_version in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/functions.php on line 31
+[11-Oct-2018 15:41:53 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/functions.php on line 32
+[12-Oct-2018 12:32:28 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/index.php on line 17
+[13-Oct-2018 09:50:33 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/single.php on line 10
+[14-Oct-2018 07:17:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[15-Oct-2018 03:43:19 UTC] PHP Fatal error:  Call to undefined function has_nav_menu() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/footer.php on line 16
+[16-Oct-2018 00:58:29 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/image.php on line 10
+[16-Oct-2018 22:51:23 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/page.php on line 14
+[20-Oct-2018 06:40:26 UTC] PHP Fatal error:  Call to undefined function esc_url() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/searchform.php on line 11
+[20-Oct-2018 08:36:08 UTC] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/sidebar-content-bottom.php on line 10
+[20-Oct-2018 14:12:54 UTC] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/sidebar.php on line 11
+[18-Nov-2018 16:50:24 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[06-Mar-2019 18:00:17 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/index.php on line 17
+[06-May-2019 22:32:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[28-May-2019 05:54:22 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jul-2019 15:48:07 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[15-Jul-2019 10:08:45 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[16-Jul-2019 07:52:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[16-Jul-2019 18:27:14 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/index.php on line 17
+[21-Jul-2019 01:43:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/index.php on line 17
+[24-Jul-2019 01:05:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/index.php on line 17
+[09-Aug-2019 07:09:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/index.php on line 17
+[30-Sep-2019 22:48:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/index.php on line 17
+[15-Nov-2019 20:35:52 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[16-Nov-2019 00:52:49 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[17-Nov-2019 16:15:00 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[17-Nov-2019 20:22:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[12-Dec-2019 19:58:34 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[13-Dec-2019 01:12:11 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[14-Dec-2019 20:16:16 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[15-Dec-2019 01:22:29 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[11-Jan-2020 19:12:55 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[13-Jan-2020 11:26:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[14-Jan-2020 19:22:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[15-Jan-2020 14:13:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[16-Apr-2020 21:25:22 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[17-Apr-2020 01:44:06 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[24-Apr-2020 16:24:05 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[24-Apr-2020 20:55:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[27-Dec-2020 15:31:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[21-May-2021 23:19:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[22-May-2021 02:27:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[29-May-2021 02:30:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/index.php on line 17
+[17-Jul-2021 19:29:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[17-Sep-2021 23:07:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[28-Sep-2021 07:14:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[28-Sep-2021 07:14:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/404.php on line 10
+[23-Dec-2022 22:34:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/index.php on line 17

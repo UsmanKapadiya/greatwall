@@ -1,0 +1,2 @@
+[30-Oct-2018 19:09:16 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/inc/template-tags.php on line 169
+[03-Nov-2018 19:24:28 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentysixteen/inc/customizer.php on line 61

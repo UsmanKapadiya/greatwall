@@ -1,0 +1,4 @@
+[26-Oct-2018 01:19:46 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 05:15:42 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 09:53:49 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 14:18:55 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/intellidt2014/public_html/greatwall/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
